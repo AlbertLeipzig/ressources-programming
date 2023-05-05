@@ -57,7 +57,7 @@
 
 [bun](https://bun.sh/)  
 [parcel](https://en.parceljs.org/)  
-[rollup](https://rollupjs.org/)
+[rollup](https://rollupjs.org/)  
 [weback](https://webpack.js.org/)
 
 ### \_\_frontend-library
