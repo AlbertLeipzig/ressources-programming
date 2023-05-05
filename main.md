@@ -103,22 +103,22 @@
 
 [markdown guide](https://www.markdownguide.org)  
 [git emojis](https://gist.github.com/rxaviers/7360908)  
-[skill icons](https://github.com/tandpfun/skill-icons)
-[stackedit](https://stackedit.io/)
+[skill icons](https://github.com/tandpfun/skill-icons)  
+[stackedit](https://stackedit.io/)  
 
 ### Other
 
-[animista](https://animista.net/)
+[animista](https://animista.net/)  
 [curl](https://curl.se/docs/)  
 [regex](https://regexr.com/)  
-[web apis](https://developer.mozilla.org/en-US/docs/Web/API)
+[web apis](https://developer.mozilla.org/en-US/docs/Web/API)  
 
 ### Testing
 
-[cypress](https://www.cypress.io/)
+[cypress](https://www.cypress.io/)  
 [jest](https://jestjs.io/)  
 [percy](https://percy.io/)  
-[vitest](https://vitest.dev/)
+[vitest](https://vitest.dev/)  
 
 ---
 
