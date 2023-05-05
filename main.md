@@ -126,8 +126,8 @@
 
 ### formatter
 
-[code formatter](https://codebeautify.org/)
-[json formatter](https://jsonformatter.org/)
+[code formatter](https://codebeautify.org/)  
+[json formatter](https://jsonformatter.org/)  
 
 ### maps
 
@@ -138,9 +138,9 @@
 ### prototyping
 
 [diagram](https://app.diagrams.net/)  
-[milanote](https://app.milanote.com/)
-[miro](https://miro.com)
-[stately](https://stately.ai)
+[milanote](https://app.milanote.com/)  
+[miro](https://miro.com)  
+[stately](https://stately.ai)  
 
 ### fake Data
 
