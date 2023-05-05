@@ -4,8 +4,8 @@
 
 ### Main Ressources
 
-[mdn](https://developer.mozilla.org/en-US/)
-[w3.org](https://www.w3.org/)
+mdn [mdn](https://developer.mozilla.org/en-US/)
+w3 schoold [w3.org](https://www.w3.org/)
 [a11yproject](https://www.a11yproject.com/)
 [w3 schools](https://www.w3schools.com/)
 [css tricks](https://css-tricks.com/)
