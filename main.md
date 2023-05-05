@@ -35,9 +35,9 @@
 ### \_\_frameworks
 
 [bootstrap](https://getbootstrap.com/)  
-[bulma](https://bulma.io/)
+[bulma](https://bulma.io/)  
 [tailwind](https://tailwindcss.com/)  
-[post css](https://postcss.org/)
+[post css](https://postcss.org/)  
 
 ### Git
 
