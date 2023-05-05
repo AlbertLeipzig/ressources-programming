@@ -41,10 +41,10 @@
 
 ### Git
 
-[git](https://git-scm.com/doc)
+[git](https://git-scm.com/doc)  
 
-[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
-[git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)  
+[git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)  
 
 ### Javascript
 
