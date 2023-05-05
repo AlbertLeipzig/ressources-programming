@@ -4,6 +4,7 @@
 
 ### Main Ressources
 
+<<<<<<< HEAD
 mdn [mdn](https://developer.mozilla.org/en-US/)  
 [w3.org](https://www.w3.org/)  
 [a11yproject](https://www.a11yproject.com/)  
@@ -13,6 +14,17 @@ mdn [mdn](https://developer.mozilla.org/en-US/)
 [linux.org](https://www.linux.org/)  
 [stack overflow](https://stackoverflow.com/)  
 [devdocs.io](https://devdocs.io/)  
+=======
+mdn [mdn](https://developer.mozilla.org/en-US/)
+w3 schoold [w3.org](https://www.w3.org/)
+[a11yproject](https://www.a11yproject.com/)
+[w3 schools](https://www.w3schools.com/)
+[css tricks](https://css-tricks.com/)
+[can I use](https://caniuse.com/)
+[linux.org](https://www.linux.org/)
+[stack overflow](https://stackoverflow.com/)
+[devdocs.io](https://devdocs.io/)
+>>>>>>> 6a29bd922312e92eb494d96c613c8efa27f5cd86
 
 ### Git
 
