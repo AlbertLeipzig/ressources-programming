@@ -62,19 +62,19 @@
 
 ### \_\_frontend-library
 
-[awesome vue](https://awesome-vue.js.org/)
+[awesome vue](https://awesome-vue.js.org/)  
 [mui](https://mui.com/)  
 [react](https://react.dev/)  
-[vue](https://vuejs.org/)
+[vue](https://vuejs.org/)  
 
 ### \_\_frameworks
 
 [angular](https://angular.io/)  
-[deno](https://fresh.deno.dev/)
+[deno](https://fresh.deno.dev/)  
 [materialize](https://materializecss.com/)  
 [next](https://nextjs.org/)  
-[nuxt](https://nuxtjs.org/)
-[svelte](https://svelte.dev/)
+[nuxt](https://nuxtjs.org/)  
+[svelte](https://svelte.dev/)  
 
 ### \_\_other
 
