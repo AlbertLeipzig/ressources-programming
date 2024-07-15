@@ -4,19 +4,19 @@
 
 ### Main Ressources
 
-[mdn](https://developer.mozilla.org/en-US/)  
-[w3.org](https://www.w3.org/)  
 [a11yproject](https://www.a11yproject.com/)  
-[w3 schools](https://www.w3schools.com/)  
-[css tricks](https://css-tricks.com/)  
-[can I use](https://caniuse.com/)  
-[linux.org](https://www.linux.org/)  
-[stack overflow](https://stackoverflow.com/)  
 [devdocs.io](https://devdocs.io/)
+[linux.org](https://www.linux.org/)  
+[mdn](https://developer.mozilla.org/en-US/)  
+[stack overflow](https://stackoverflow.com/)  
+[w3.org](https://www.w3.org/)  
+[w3 schools](https://www.w3schools.com/)  
+[12factor.net](https://12factor.net/)
 
 ### Backend
 
-[auth0](https://auth0.com/)  
+[auth0](https://auth0.com/)
+[dev docs](https://devdocs.io/)
 [cookie parser](https://www.npmjs.com/package/cookie-parser)  
 [express.js](http://expressjs.com/en/resources/middleware)  
 [helmet](https://helmetjs.github.io/)  
@@ -28,9 +28,11 @@
 ### CSS
 
 [atomic design](https://atomicdesign.bradfrost.com/table-of-contents/)
-
+[can I use](https://caniuse.com/)  
+[css tricks](https://css-tricks.com/)
 [css reset](https://meyerweb.com/eric/tools/css/reset/)  
 [css reset -- modern](https://andy-bell.co.uk/a-modern-css-reset/)
+[purge css](https://purgecss.com/)
 
 ### \_\_frameworks
 
@@ -41,9 +43,8 @@
 
 ### Git
 
-[git](https://git-scm.com/doc)  
-
 [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)  
+[git](https://git-scm.com/doc)  
 [git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)  
 
 ### Javascript
@@ -119,6 +120,15 @@
 [jest](https://jestjs.io/)  
 [percy](https://percy.io/)  
 [vitest](https://vitest.dev/)  
+
+---
+
+### Cheat Sheets
+
+[emmet](https://docs.emmet.io/cheat-sheet/)
+[linux command](https://www.loggly.com/wp-content/uploads/2015/05/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf)
+[mongoose](https://mongodb-devhub-cms.s3.us-west-1.amazonaws.com/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf)
+
 
 ---
 
