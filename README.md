@@ -23,7 +23,7 @@
 [jwt](https://jwt.io/)  
 [morgan](https://www.npmjs.com/package/morgan)  
 [mysql](https://www.mysql.com/)  
-[postgrest](https://postgrest.org/en/stable/)
+[postgres](https://postgrest.org/en/stable/)
 
 ### CSS
 
