@@ -71,7 +71,6 @@
 ### \_\_frameworks
 
 [angular](https://angular.io/)  
-[deno](https://fresh.deno.dev/)  
 [materialize](https://materializecss.com/)  
 [next](https://nextjs.org/)  
 [nuxt](https://nuxtjs.org/)  
